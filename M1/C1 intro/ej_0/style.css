@@ -1,0 +1,53 @@
+body {
+  background-color : black;
+  color : white;
+}
+
+ul {
+  font-size : 10px
+}
+
+div {
+  background-color: pink;
+  width: 400px;
+}
+
+.parrafo {
+  background-color : pink;
+  width : 300px
+}
+
+#penultimo-parrafo {
+  color : orange;
+  width : 200px;
+  padding: 30px;
+  background-image: url(https://unsplash.it/400/100);
+  background-size: cover;
+
+
+}
+
+/* comentario */
+
+.box {
+  background : purple;
+  width: 200px;
+  margin: 12px;
+  margin-left: 200px;
+  border: 50px;
+  border-bottom-color: orangered;
+  border-style: solid;
+  padding: 50px;
+  padding-right: 5px
+}
+
+footer {
+  margin-top: 100px;
+  font-size: 30px;
+  text-align: center;
+}
+
+a:hover{
+  color: yellow;
+  text-transform: uppercase;
+}
