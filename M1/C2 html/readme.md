@@ -1,6 +1,6 @@
 # Clase 2
 
-## Kahoot de repaso de HTML:
+## Repaso de HTML:
 
 * ¿Qué es HTML?
 * ¿Qué es una etiqueta de bloque?
