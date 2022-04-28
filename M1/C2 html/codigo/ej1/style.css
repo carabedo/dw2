@@ -1,0 +1,42 @@
+/* h1 es el tag al que quiero darle estilo */
+
+h1 {
+    text-align: center;
+   }
+
+/* el # me habla de un identificador */
+
+#tablero {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+/* el . me permite seleccionar una clase */
+  
+.fila {
+    display: flex;
+  }
+
+.letra {
+border: 2px solid gray;
+border-radius: 3px;
+margin: 2px;
+height: 50px;
+width: 50px;
+display: flex;
+
+}
+
+input {  
+    height: 44px;
+    width: 43px;
+   }
+
+  
+#teclado {
+    margin: 100px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }

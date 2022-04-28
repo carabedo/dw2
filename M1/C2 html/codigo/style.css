@@ -1,0 +1,12 @@
+li {
+    background-color: darkgray;
+    margin: 10px;
+    /* display: block; */
+}
+
+ol li {
+    background-color: darkgray;
+    margin: 10px;
+    display:inline;
+
+}
