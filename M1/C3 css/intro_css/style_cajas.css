@@ -1,0 +1,36 @@
+body { background-color: mistyrose ;}
+
+h1 {
+    color: darkorchid;
+}
+
+section,li,h1 {
+  color: rgb(0, 132, 255);
+}
+
+
+
+
+section {
+  width: 50%;
+  /* arriba, derecha, abajo e izquierda, */
+  margin: 40px 2px 40px 200px;
+  border-style: double;
+  border-width: 15px;
+  padding: 5px 5px 10px 40px ;
+  background-color: aquamarine;
+}
+
+article {background-color: rgb(208, 102, 218);
+  width: 600px;
+  /* margin: 0 auto; */
+}
+
+/* Por que la figura no esta centrada? Pista: Que tipo de etiqueta es? */
+
+#awesome {
+
+  margin-left: auto;
+  margin-right: auto;
+
+}

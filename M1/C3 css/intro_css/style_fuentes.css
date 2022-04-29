@@ -1,0 +1,40 @@
+body { background-color: mistyrose ;}
+
+h1 {
+    color: darkorchid;
+}
+
+section,li,h1 {
+  color: rgb(0, 132, 255);
+}
+
+
+
+section {
+  width: 50%;
+  /* arriba, derecha, abajo e izquierda, */
+  margin: 40px auto;
+  border-style: solid;
+  padding: 50px ;
+  background-color: aquamarine;
+}
+
+article {
+  width: 600px;
+  margin: 0 auto;
+}
+
+
+#awesome {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@200&display=swap');
+
+*{
+  font-family: 'Anton', sans-serif;
+
+}
