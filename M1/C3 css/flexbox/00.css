@@ -1,0 +1,14 @@
+section{
+    width: 70%;
+    background-color: bisque;
+    display: flex;
+    margin: 0 auto;
+}
+
+article {
+
+    /* puedo jugar con el tamano, pero tengo que ajustar el wrap */
+    width: 30%;
+    margin: 10px auto;
+    background-color: azure;
+}

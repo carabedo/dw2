@@ -1,0 +1,21 @@
+.container-figura {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.container{
+    width: 70%;
+    background-color: bisque;
+    display: flex;
+    margin: 0 auto;
+    
+    /* flex-direction: column; */
+}
+
+article {
+    width: 30%;
+    margin: 10px auto;
+    background-color: azure;
+}
+
