@@ -12,14 +12,18 @@ section,li,h1 {
 
 
 section {
-  width: 50%;
+  width: 70%;
   /* arriba, derecha, abajo e izquierda, */
-  margin: 40px 2px 40px 200px;
-  border-style: double;
-  border-width: 15px;
-  padding: 5px 5px 10px 40px ;
+  margin: 200px 5000px 40px 10px;
+  border-style:dotted;
+  border-radius: 50px;
+  border-width: 5px;
+  padding: 50px 5px 100px 50px ;
   background-color: aquamarine;
 }
+
+
+
 
 article {background-color: rgb(208, 102, 218);
   width: 600px;

@@ -7,6 +7,7 @@ h1 {
 span {background-color: aquamarine;}
 
 
+
 /* Seleccionar varios elementos:
 También podes seleccionar varios elementos y aplicar una sola regla a todos ellos. Incluye varios selectores separados por comas (,). Por ejemplo: */
 
@@ -19,15 +20,16 @@ section,li,h1 {
 /* Diferentes tipos de selectores: Selecciono por #id */
 
 #item2 {
-  color: brown;
+  color: rgb(101, 165, 42);
 }
 
 
 
 /* Vamos a centrar el parrafo de orden */
 #orden-cascada {
-  width: 50%;
-  margin: 50px auto;
+  width: 80%;
+  background-color: aquamarine;
+  margin: 100px auto;  
 
 }
 
@@ -37,8 +39,9 @@ section,li,h1 {
   margin: 0 auto;}
 
 /* Selecciono por valor del atributo de una etiqueta */
+
 img[alt=nav] {
   border-style: double;
-  border-width: 5px;
+  border-width: 50px;
 }
 
