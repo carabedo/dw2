@@ -1,0 +1,50 @@
+.container {
+    width: 80%;
+    margin: 100px auto;
+    display: grid;
+    grid-template-columns: 2fr 2fr 1fr;
+    grid-template:
+    "header header header"
+    "art1 art2 aside"
+    "art3 art4 aside"
+    "art5 art6 aside"
+    "footer footer footer ";
+
+  }
+
+header {
+    grid-area: header;
+}
+
+.aside {
+    grid-area: aside;
+}
+
+.art1 {
+    grid-area: art1;
+}
+
+.art2 {
+  grid-area: art2;
+}
+
+.art3 {
+  grid-area: art3;
+}
+
+.art4 {
+grid-area: art4;
+}
+
+.art5 {
+  grid-area: art5;
+}
+
+.art6 {
+grid-area: art6;
+}
+
+
+footer {
+    grid-area: footer;
+}

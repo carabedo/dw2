@@ -38,3 +38,15 @@ article {background-color: rgb(208, 102, 218);
   margin-right: auto;
 
 }
+
+p {
+  color: brown;
+}
+
+.div1 p {
+  background-color: chartreuse;
+}
+
+.div2 {
+  background-color: hotpink;
+}
