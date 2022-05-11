@@ -5,6 +5,7 @@
 }
 
 .container{
+    flex-direction: row;
     width: 70%;
     background-color: bisque;
     display: flex;
