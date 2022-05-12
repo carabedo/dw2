@@ -1,0 +1,25 @@
+body {
+    background-color: #e5e5f7;
+
+}
+
+
+
+.container{
+    width: 80%;
+    height: 700px;
+    background-color: rgb(33, 103, 233);
+    margin: 100px auto;
+    margin-bottom: 200px;
+    
+
+}
+
+article {
+    size: 10px;
+    background-color: rgb(182, 117, 243);
+    border-style: dashed;
+    border-width: 1px;
+    
+}
+
