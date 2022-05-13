@@ -4,7 +4,7 @@
     grid-template-rows: repeat(5, 1fr);
     gap: 10px;
     background-color: antiquewhite;
-    height: 800px;
+    height: 600px;
     }
     
     .div1 { grid-area: 1 / 1 / 5 / 4; }

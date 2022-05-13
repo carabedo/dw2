@@ -10,8 +10,7 @@
     background-color: bisque;
     display: flex;
     margin: 0 auto;
-    
-    /* flex-direction: column; */
+    flex-direction: row-reverse; 
 }
 
 article {

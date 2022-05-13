@@ -8,3 +8,7 @@
 .card {
     width: 25%;
 }
+
+#collapseOne {
+    background-color: blueviolet;
+}
