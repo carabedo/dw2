@@ -30,7 +30,7 @@ li {
 }
 /* cambiar min por max y analizar que pasa */
 
-@media screen and (min-width: 540px) {
+@media screen and (max-width: 540px) {
     .div1 {
         background-color: rgb(125, 125, 125);
         width: 70%;
@@ -47,16 +47,16 @@ li {
 
   
 
-  /* @media screen and (???maxomin???-width: 540px) {
+  @media screen and (max-width: 540px) {
  
     ul {
     display: flex;
     flex-direction: column;
-
+    /* justify-content: center; */
     align-items: center;
     }
 
-  } */
+  }
   
   
 /* jugar con el align y el justify para centrar los items */
