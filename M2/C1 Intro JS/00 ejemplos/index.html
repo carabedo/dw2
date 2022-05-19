@@ -1,54 +1,48 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta charset="utf-8">
-<title>Display Webcam Stream</title>
- 
-<style>
-#container {
-	margin: 0px auto;
-	width: 500px;
-	height: 375px;
-	border: 10px #333 solid;
-}
-#videoElement {
-	width: 500px;
-	height: 375px;
-	background-color: #666;
-}
-</style>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
 </head>
- 
+
 <body>
-<div id="container">
-	<video autoplay="true" id="videoElement">
-	
-	</video>
-</div>
+
+<h1>Mi primer pagina con JavaScript!</h1>
+ 
+<h2 id="h2"></h2>
+
+<form action="" id="frm1">
+  <label for="nombre">Cual es tu nombre?</label>
+  <br>
+  <input type="text" name="nombre" id="nombre">
+  <br>
+  <label for="color">Cual es tu color favorito?</label>
+  <br>
+  <input type="text" name="color" id="">
+  <br>
+  <br>
+
+</form>
+
+<button onclick="myFunction()">Enviar</button>
+
 <script>
-var video = document.querySelector("#videoElement");
-
-if (navigator.mediaDevices.getUserMedia) {
-  navigator.mediaDevices.getUserMedia({ video: true })
-    .then(function (stream) {
-      video.srcObject = stream;
-    })
-    .catch(function (err0r) {
-      console.log("Something went wrong!");
-    });
-}
-
-function stop(e) {
-  var stream = video.srcObject;
-  var tracks = stream.getTracks();
-
-  for (var i = 0; i < tracks.length; i++) {
-    var track = tracks[i];
-    track.stop();
-  }
-
-  video.srcObject = null;
+function myFunction() {
+  var x = document.getElementById("frm1");
+  var nombre
+  nombre = x.elements[0].value 
+  color = x.elements[1].value 
+  let saludo
+  saludo = 'Hola ' + nombre +'!';
+  document.getElementById("h2").innerHTML = saludo ;
+  document.getElementsByTagName('body')[0].style.backgroundColor = color
 }
 </script>
 </body>
 </html>
+
+
+

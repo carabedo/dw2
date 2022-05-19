@@ -1,0 +1,62 @@
+body {
+    background-color: lightsteelblue;
+}
+
+
+
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    list-style: none;
+}
+
+/* probar mandar esto abajo luego de ver como funcionan las media queries */
+
+
+.div1 {
+    background-color: lightcoral;
+    width: 70%;
+    margin: 50px auto;
+}
+
+.div2 {
+    margin: 50px auto;
+    background-color: darkorchid;
+    width: 600px;
+
+}
+/* cambiar min por max y analizar que pasa */
+
+@media screen and (min-width: 540px) {
+    .div1 {
+        background-color: rgb(125, 125, 125);
+        width: 70%;
+        margin: 50px auto;
+    }
+    
+    .div2 {
+        margin: 50px auto;
+        background-color: rgb(132, 132, 132);
+        width: 600px;
+    
+    }
+  }
+
+  
+
+  /* @media screen and (???maxomin???-width: 540px) {
+ 
+    ul {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    }
+
+  } */
+  
+  
+/* jugar con el align y el justify para centrar los items */
