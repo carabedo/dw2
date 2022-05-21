@@ -2,30 +2,22 @@
 <html>
 <body>
 
-<form id="frm1" action="">
-  First name: <input type="text" name="fname" value="Donald"><br>
-  Last name: <input type="text" name="lname" value="Duck"><br><br>
-</form> 
-
-<button onclick="myFunction()">Try it</button>
-
-
-<p>Click "Try it" to display the value of each element in the form.</p>
-
-
-
-<p id="demo"></p>
+<h1>Prueba</h1>
 
 <script>
-function myFunction() {
-  var x = document.getElementById("frm1");
-  var text = "";
-  var i;
-  for (i = 0; i < x.length ;i++) {
-    text += x.elements[i].value + "<br>";
-  }
-  document.getElementById("demo").innerHTML = 'Hola ' + text +'!';
+let a = 5
+console.log(a)
+
+fun1()
+// fun2(3)
+
+function fun1(){
+  console.log('jeje')
 }
+
+let fun2 = (x) => x**2
+
+console.log(fun2(3))
 </script>
 
 </body>
