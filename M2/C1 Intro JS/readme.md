@@ -5,7 +5,7 @@
 + Introducción general a los lenguajes de programación
 + Vincular JS
 + Tipos de datos
-+ Variables
++ Variables `let`
 + Uso de consola
 + `console.log()`, `alert()` y `prompt()`
 + `typeof`
