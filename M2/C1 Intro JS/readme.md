@@ -15,3 +15,6 @@
 * numeros
 * strings
 * booleanos
+
+
+## Operaciones entre numeros, string y numeros... y los booleanos?
