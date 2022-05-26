@@ -1,0 +1,14 @@
+body {
+    background-color: pink;
+    width: 70%;
+    margin: 100px auto
+}
+
+#imagen {
+    width: 70%;
+    margin: 0 auto;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+

@@ -1,0 +1,14 @@
+body {
+    background-color: pink;
+    width: 70%;
+    margin: 100px auto
+}
+
+#imagen {
+    background-color: bisque;
+    width: 70%;
+    margin: 0 auto;
+    height: 300px;
+
+}
+
