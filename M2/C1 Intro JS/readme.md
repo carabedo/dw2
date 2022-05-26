@@ -7,7 +7,7 @@
 + Tipos de datos
 + Variables
 + Uso de consola
-+ Console.log, alert y Prompt
++ `console.log()`, `alert()` y `prompt()`
 + `typeof`
 
 ## Tipo de datos
