@@ -8,7 +8,7 @@
 + Variables
 + Uso de consola
 + Console.log, alert y Prompt
-+ Typeof
++ `typeof`
 
 ## Tipo de datos
 
