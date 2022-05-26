@@ -1,13 +1,14 @@
 # Intro JS
 
+## Objetivos
 
-Introducción general a los lenguajes de programación
-Vincular JS
-Tipos de datos
-Variables
-Uso de consola
-Console.log, alert y Prompt
-Typeof
++ Introducción general a los lenguajes de programación
++ Vincular JS
++ Tipos de datos
++ Variables
++ Uso de consola
++ Console.log, alert y Prompt
++ Typeof
 
 ## Tipo de datos
 
