@@ -36,6 +36,16 @@ return 2022-anioNacimiento
 }
 ```
 
+
+```javascript
+function calculoEdad(anioNacimiento) {
+
+console.log('Tenes: '+ 2022-anioNacimiento + ' años.')
+return 
+}
+```
+
+
 ## Tipo de datos: el cuarto...los objetos.
 
 ![](https://http2.mlstatic.com/D_NQ_NP_881520-MLA43683157972_102020-O.webp)
