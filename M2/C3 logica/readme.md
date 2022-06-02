@@ -23,6 +23,10 @@ Objeto Math (Random, Floor, etc)
 
 ## Funciones:
 
+
+![](https://scausey.github.io/assets/images/toasterFunctionDiagram.jpg)
+
+
 ```javascript
 function calculoEdad(x) {
 return 2022-x
