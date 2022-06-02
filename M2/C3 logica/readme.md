@@ -60,3 +60,4 @@ cajoneramisteriosa = { cajon1 : 23 , cajon2 : 'hola', cajon3 : false , cajon4 : 
 ```
 
 
+## Objeto Math:
