@@ -39,8 +39,8 @@ return 2022-anioNacimiento
 
 ```javascript
 function calculoEdad(anioNacimiento) {
-
-console.log('Tenes: '+ 2022-anioNacimiento + ' años.')
+let edad = 2022-anioNacimiento
+console.log('Tenes: '+ edad + ' años.')
 return 
 }
 ```
