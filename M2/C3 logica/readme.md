@@ -18,3 +18,10 @@ Template literals (Propiedades de ES6)
 Objeto Math (Random, Floor, etc)
 - Suma++;
 - +=suma;
+
+## Objetos (cuarto tipo de datos)
+
+![](https://http2.mlstatic.com/D_NQ_NP_881520-MLA43683157972_102020-O.webp)
+
+let cajamisteriosa
+cajoneramisteriosa = { cajon1 : 23 , cajon2 : 'hola', cajon3 : false } 
