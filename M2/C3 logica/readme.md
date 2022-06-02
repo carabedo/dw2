@@ -32,6 +32,7 @@ return 2022-x
 }
 ```
 
+![](f.png)
 
 ```javascript
 function calculoEdad(anioNacimiento) {
