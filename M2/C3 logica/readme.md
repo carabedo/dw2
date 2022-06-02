@@ -7,7 +7,7 @@
 - Aplicar el uso y conocer el alcance y posibilidades al desarrollar if,else anidados.
 - Conocer el uso del objeto Math y su implicancia en diversas operaciones de programación (acceder a elementos, números aleatorios, redondeos, etc)
 
-## Ejes temáticos
+## Ejes temáticos:
 
 - Refuerzo de operadores Lógicos
 - Evaluación true/false
@@ -26,4 +26,12 @@ Objeto Math (Random, Floor, etc)
 ```javascript
 let cajamisteriosa
 cajoneramisteriosa = { cajon1 : 23 , cajon2 : 'hola', cajon3 : false } 
+```
+
+## Funciones:
+
+```javascript
+function (x) {
+return 2022-x
+}
 ```
