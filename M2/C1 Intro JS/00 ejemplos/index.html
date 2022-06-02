@@ -30,15 +30,10 @@
 <button onclick="myFunction()">Enviar</button>
 
 <script>
-function myFunction() {
-  var x = document.getElementById("frm1");
-  var nombre
-  nombre = x.elements[0].value 
-  color = x.elements[1].value 
-  let saludo
-  saludo = 'Hola ' + nombre +'!';
-  document.getElementById("h2").innerHTML = saludo ;
-  document.getElementsByTagName('body')[0].style.backgroundColor = color
+let temperatura = prompt('cuantos grados hace?')
+if (temperatura < 15) {
+  console.log('esta fresco')
+
 }
 </script>
 </body>
