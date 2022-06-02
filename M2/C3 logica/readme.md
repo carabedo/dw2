@@ -19,6 +19,23 @@ Objeto Math (Random, Floor, etc)
 - Suma++;
 - +=suma;
 
+
+
+## Funciones:
+
+```javascript
+function calculoEdad(x) {
+return 2022-x
+}
+```
+
+
+```javascript
+function calculoEdad(anioNacimiento) {
+return 2022-anioNacimiento
+}
+```
+
 ## Tipo de datos: el cuarto...los objetos.
 
 ![](https://http2.mlstatic.com/D_NQ_NP_881520-MLA43683157972_102020-O.webp)
@@ -28,10 +45,4 @@ let cajamisteriosa
 cajoneramisteriosa = { cajon1 : 23 , cajon2 : 'hola', cajon3 : false } 
 ```
 
-## Funciones:
 
-```javascript
-function calculoEdad(x) {
-return 2022-x
-}
-```
