@@ -23,8 +23,7 @@ Objeto Math (Random, Floor, etc)
 
 ## Funciones:
 
-
-![](https://scausey.github.io/assets/images/toasterFunctionDiagram.jpg)
+<img src='https://scausey.github.io/assets/images/toasterFunctionDiagram.jpg' width=500>
 
 
 ```javascript
