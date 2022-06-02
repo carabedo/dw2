@@ -31,7 +31,7 @@ cajoneramisteriosa = { cajon1 : 23 , cajon2 : 'hola', cajon3 : false }
 ## Funciones:
 
 ```javascript
-function (x) {
+function calculoEdad(x) {
 return 2022-x
 }
 ```
