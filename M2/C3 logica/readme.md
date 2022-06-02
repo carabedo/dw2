@@ -19,7 +19,7 @@ Objeto Math (Random, Floor, etc)
 - Suma++;
 - +=suma;
 
-## Objetos (cuarto tipo de datos)
+## Tipo de datos: el cuarto...los objetos.
 
 ![](https://http2.mlstatic.com/D_NQ_NP_881520-MLA43683157972_102020-O.webp)
 
