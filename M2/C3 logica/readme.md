@@ -60,7 +60,7 @@ cajoneramisteriosa = { cajon1 : 23 , cajon2 : 'hola', cajon3 : false , cajon4 : 
 
 ## Objeto Math:
 
-Un objeto con valores y funciones matematicas super utiles!
+Una cajonear (objeto) con valores y funciones matematicas super utiles!
 
 ```javascript
 Math.PI
