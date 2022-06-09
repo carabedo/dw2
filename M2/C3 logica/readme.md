@@ -47,8 +47,8 @@ return
 
 ## Tipo de datos: 
 
-Vimos numeros, strings y booleanos
-el cuarto...los objetos.
+Vimos numeros, strings y booleanos y ahora vemos
+el cuarto tipo...los objetos!
 
 ![](https://http2.mlstatic.com/D_NQ_NP_881520-MLA43683157972_102020-O.webp)
 
