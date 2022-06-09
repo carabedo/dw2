@@ -25,14 +25,13 @@ Agrego una segunda opcion a mis condiciones!
 # Ejercicio
 
 <p>Quiero una pagina que muestre una imagen dependiendo de la temperatura.
-
-    <ul>
-    <li>Polar</li>
-    <li>Frio</li>
-    <li>Templado</li>
-    <li>Calido</li>
-    <li>Horno</li>
-    </ul>
+<ul>
+<li>Polar</li>
+<li>Frio</li>
+<li>Templado</li>
+<li>Calido</li>
+<li>Horno</li>
+</ul>
 
 Polar:
 
