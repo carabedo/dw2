@@ -7,6 +7,13 @@
 - Aplicar el uso y conocer el alcance y posibilidades al desarrollar if,else anidados.
 - Conocer el uso del objeto Math y su implicancia en diversas operaciones de programación (acceder a elementos, números aleatorios, redondeos, etc)
 
+## Operador === y ==
+
+```javascript
+1 == true
+1 === true
+```
+
 ## Operadores && y || 
 
 Me sirven para combinar condiciones.
