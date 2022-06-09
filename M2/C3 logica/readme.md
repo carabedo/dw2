@@ -7,18 +7,6 @@
 - Aplicar el uso y conocer el alcance y posibilidades al desarrollar if,else anidados.
 - Conocer el uso del objeto Math y su implicancia en diversas operaciones de programación (acceder a elementos, números aleatorios, redondeos, etc)
 
-## Ejes temáticos:
-
-- Refuerzo de operadores Lógicos
-- Evaluación true/false
-- Uso del else como fallback
-If else anidados
-Patrón de diseño por negación
-Template literals (Propiedades de ES6)
-Objeto Math (Random, Floor, etc)
-- Suma++;
-- +=suma;
-
 
 
 ## Funciones:
@@ -50,7 +38,10 @@ return
 ```
 
 
-## Tipo de datos: el cuarto...los objetos.
+## Tipo de datos: 
+
+Vimos numeros, strings y booleanos
+el cuarto...los objetos.
 
 ![](https://http2.mlstatic.com/D_NQ_NP_881520-MLA43683157972_102020-O.webp)
 
