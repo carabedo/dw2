@@ -4,14 +4,19 @@ console.log(temp)
 if (temp < 0) {
 
 
-img='<img src="polar.jpg" alt="">'   
+img='<h2> que pasooo amigo, anda con frio </h2> <img src="polar.jpg" alt="">' 
+
+
 document.getElementById('imagen').innerHTML = img
       
 
 } else if (temp < 15) {
+
     img='<img src="frio.jpg" alt="">'   
     document.getElementById('imagen').innerHTML = img
+
 } else if (temp < 30 ) {
+    
     img='<img src="templado.jpg" alt="">'   
     document.getElementById('imagen').innerHTML = img
 } else if (temp < 40 ){
