@@ -19,14 +19,7 @@ Agrego una segunda opcion a mis condiciones!
 
 <img src='https://scausey.github.io/assets/images/toasterFunctionDiagram.jpg' width=500>
 
-
-```javascript
-function calculoEdad(x) {
-return 2022-x
-}
-```
-
-![](f.png)
+Armemos una maquina que reciba nuestro año de nacimiento y devuelva nuestra edad!
 
 ```javascript
 function calculoEdad(anioNacimiento) {
@@ -34,6 +27,14 @@ return 2022-anioNacimiento
 }
 ```
 
+
+![](f.png)
+
+
+
+
+
+Podemos hacerla un poquito mas compleja:
 
 ```javascript
 function calculoEdad(anioNacimiento) {
