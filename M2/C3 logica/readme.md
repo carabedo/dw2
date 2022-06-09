@@ -24,18 +24,35 @@ Agrego una segunda opcion a mis condiciones!
 
 # Ejercicio
 
-Hagamos una pagina que pregunte la temperatura y muestre una imagen para temperaturas menores a 15º y otra para tempreaturas mayores.
+<p>Quiero una pagina que muestre una imagen dependiendo de la temperatura.
+
+    <ul>
+    <li>Polar</li>
+    <li>Frio</li>
+    <li>Templado</li>
+    <li>Calido</li>
+    <li>Horno</li>
+    </ul>
+
+Polar:
+
+<img src='ejemplos/polar.jpg' width=300> 
 
 Frio:
 
-<img src='ejemplos/polar.jpg' width=500> 
+<img src='ejemplos/frio.jpg' width=300> 
 
+Templado:
 
+<img src='ejemplos/templado.jpg' width=300> 
 
-Calor:
+Calido:
 
-<img src='ejemplos/calido.jpg' width=500> 
+<img src='ejemplos/calido.jpg' width=300> 
 
+Horno:
+
+<img src='ejemplos/horno.jpg' width=300> 
 
 
 ## Funciones:
