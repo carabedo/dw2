@@ -22,6 +22,22 @@ Me sirven para combinar condiciones.
 
 Agrego una segunda opcion a mis condiciones!
 
+# Ejercicio
+
+Hagamos una pagina que pregunte la temperatura y muestre una imagen para temperaturas menores a 15º y otra para tempreaturas mayores.
+
+Frio:
+
+<img src='ejemplos/polar.jpg' width=500> 
+
+
+
+Calor:
+
+<img src='ejemplos/calido.jpg' width=500> 
+
+
+
 ## Funciones:
 
 <img src='https://scausey.github.io/assets/images/toasterFunctionDiagram.jpg' width=500>
