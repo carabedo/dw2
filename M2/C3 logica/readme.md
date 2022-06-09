@@ -7,7 +7,13 @@
 - Aplicar el uso y conocer el alcance y posibilidades al desarrollar if,else anidados.
 - Conocer el uso del objeto Math y su implicancia en diversas operaciones de programación (acceder a elementos, números aleatorios, redondeos, etc)
 
+## Operadores && y || 
 
+Me sirven para combinar condiciones.
+
+## if else
+
+Agrego una segunda opcion a mis condiciones!
 
 ## Funciones:
 
@@ -52,3 +58,11 @@ cajoneramisteriosa = { cajon1 : 23 , cajon2 : 'hola', cajon3 : false , cajon4 : 
 
 
 ## Objeto Math:
+
+Un objeto con valores y funciones matematicas super utiles!
+
+`Math.PI` 
+
+`Math.round(3.14159)`
+
+`Math.sqrt(25)`
