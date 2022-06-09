@@ -61,8 +61,8 @@ cajoneramisteriosa = { cajon1 : 23 , cajon2 : 'hola', cajon3 : false , cajon4 : 
 
 Un objeto con valores y funciones matematicas super utiles!
 
-`Math.PI` 
-
-`Math.round(3.14159)`
-
-`Math.sqrt(25)`
+```javascript
+Math.PI
+Math.round(3.14159)
+Math.sqrt(25)
+```
