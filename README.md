@@ -1,11 +1,5 @@
 # Diseño Web 2
 
-
-* [modulo 1](https://github.com/carabedo/dw2#modulo-1)
-  * [repo](https://github.com/carabedo/dw2/tree/main/M1)
-* [modulo 2](https://github.com/carabedo/dw2#modulo-2)
-  * [repo](https://github.com/carabedo/dw2/tree/main/M2)
-
 ## modulo 1
 
 + semana 1 (presentacion)
