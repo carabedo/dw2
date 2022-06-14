@@ -11,7 +11,5 @@
 - Arrays
 - Índice
 - Length
-- Matrices
-- Array con múltiples valores
 - Métodos push y pop
 - Método indexOf
