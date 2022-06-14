@@ -8,6 +8,7 @@
 - Índice
 - Length
 - Métodos push y pop
+- Métodos shift y unshift
 - Método indexOf
 
 ## Ejercicio:
