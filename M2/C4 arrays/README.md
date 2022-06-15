@@ -31,10 +31,8 @@ Y por que?
 ### 2. Si quiero acceder al último lugar de un array, tengo que ejecutar:
 Elija al menos una respuesta correcta.
 
-+ Respuesta 1
-+ miArray[-1]
-+ Respuesta 2
-+ miArray.at(-1)
++ `miArray[-1]`
++ `miArray.at(-1)`
 
 ### 3. Podemos pensar una matriz como una lista de filas, en JavaScript como un array de arrays:
 
@@ -64,24 +62,14 @@ b='javascript'
 
 ¿Cómo lo hago? Elija todas las las respuestas correctas.
 
-Respuesta 1
+* `miArray.splice(2,1,b)`
 
-`miArray.splice(2,1,b)`
+* `miArray.pop() miArray.push(b)`
 
-Respuesta 2
+* `miArray.pop().push(b)`
 
-`miArray.pop() miArray.push(b)`
+* `miArray.pop();miArray.push(b)`
 
-Respuesta 3
-
-`miArray.pop().push(b)`
-
-Respuesta 4
-
-`miArray.pop();miArray.push(b)`
-
-Respuesta 5
-
-`miArray.pop(b).push()`
+* `miArray.pop(b).push()`
 
 
