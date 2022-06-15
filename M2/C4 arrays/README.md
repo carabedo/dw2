@@ -16,6 +16,7 @@
 Ir a la pagina12, usar el metodo `getElementsByClass` para buscar todos los articulos.
 
 
+------
 ## Preguntas:
 
 ### 1. Definimos el siguiente Array:
