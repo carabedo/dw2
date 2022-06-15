@@ -35,6 +35,8 @@ Ir a la pagina12, usar el metodo `getElementsByClass` para buscar todos los arti
 
 ## indexof
 
+## lastIndexOf
+
 ------
 
 ## Preguntas:
