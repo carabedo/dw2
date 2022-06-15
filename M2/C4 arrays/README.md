@@ -15,8 +15,28 @@
 
 Ir a la pagina12, usar el metodo `getElementsByClass` para buscar todos los articulos.
 
+## Indice
+
+`array.at(0)`
+
+`array[9]`
+
+## Length
+
+`array.lenght`
+
+## push
+
+## pop
+
+## shift
+
+## unshift
+
+## indexof
 
 ------
+
 ## Preguntas:
 
 ### 1. Definimos el siguiente Array:
