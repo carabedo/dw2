@@ -20,7 +20,9 @@ Ir a la pagina12, usar el metodo `getElementsByClass` para buscar todos los arti
 
 ### 1. Definimos el siguiente Array:
 
-`miArray=['HOLA!' ,function(){console.log('hola?')}, 334 , 45,[],]`
+```javascript
+miArray=['HOLA!' ,function(){console.log('hola?')}, 334 , 45,[],]
+```
 
 ¿Qué veremos en pantalla si ejecutamos la siguiente línea?
 
