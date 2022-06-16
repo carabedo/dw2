@@ -132,7 +132,7 @@ b='javascript'
 
 * `miArray.pop(b).push()`
 
-### 6 Que hace el metodo `.forEach()`
+### 6 Que hace el metodo `.forEach()`?
 
 `unArray=[2,3,4,5,8,12]`
 
