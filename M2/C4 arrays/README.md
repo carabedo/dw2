@@ -132,4 +132,6 @@ b='javascript'
 
 * `miArray.pop(b).push()`
 
+### 6 Que hace el metodo `.forEach()`
 
+`miArray=['Manaos','Pitucas','Krachitos']`
