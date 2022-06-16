@@ -15,6 +15,8 @@
 
 Ir a la pagina12, usar el metodo `getElementsByClass` para buscar todos los articulos.
 
+https://javascript.info/array
+
 ## Indice
 
 `array.at(0)`
@@ -27,15 +29,31 @@ Ir a la pagina12, usar el metodo `getElementsByClass` para buscar todos los arti
 
 ## push
 
+Agrega elementos al final del array.
+
 ## pop
 
+Elimina el último elemento del array.
+
 ## shift
+Elimina elementos al principio del array y devuelve el elemento eliminado
+
 
 ## unshift
+Agrega elementos al principio del array y no devuelve nada
+
 
 ## indexof
 
+Solo devuelve la primera coincidencia.
+
 ## lastIndexOf
+
+Solo devuelve la ultima coincidencia.
+
+## splice
+
+
 
 ------
 
