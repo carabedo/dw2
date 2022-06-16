@@ -134,4 +134,7 @@ b='javascript'
 
 ### 6 Que hace el metodo `.forEach()`
 
+`unArray=[2,3,4,5,8,12]`
+
+
 `miArray=['Manaos','Pitucas','Krachitos']`
