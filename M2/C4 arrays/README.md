@@ -56,7 +56,11 @@ Solo devuelve la ultima coincidencia.
 
 ## splice
 
+El método arr.splice funciona como una navaja suiza para arrays. Puede hacer todo: insertar, remover y remplazar elementos.
 
+La sintaxis es:
+
+`array.splice(desdeDonde, deleteCount,reemplazarCon)`
 
 ------
 
