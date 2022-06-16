@@ -17,6 +17,9 @@ Ir a la pagina12, usar el metodo `getElementsByClass` para buscar todos los arti
 
 https://javascript.info/array
 
+`let arr = []`
+
+
 ## Indice
 
 `array.at(0)`
