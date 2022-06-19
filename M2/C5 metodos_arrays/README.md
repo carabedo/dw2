@@ -1,6 +1,6 @@
 # Semana 5 (for)
 
-## Objetivos
+## Objetivos:
 
 - Método slice
 - Método join
@@ -9,3 +9,9 @@
 - for of
 - for in
 - map,filter & reduce
+
+## Ejercicios:
+
+```
+https://7pyngmccwa.execute-api.us-east-1.amazonaws.com/default/apitest?q=cocinero
+``` 
