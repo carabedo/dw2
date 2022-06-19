@@ -30,4 +30,9 @@ Por ultimo generar el codigo html de esta tabla y meterla en el body de una pagi
 ```
 document.body.innerHTML = stringdelhtml
 ```
+
 Repetir filtrando los articulos que sean de girasol.
+
+Intenten usar .map con una funcion que pasa a minusculas
+
+Intenten usar .filter con una funcion que busque la palabra clave.
