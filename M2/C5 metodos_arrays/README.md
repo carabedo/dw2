@@ -10,7 +10,7 @@
 - for in
 - map,filter & reduce
 
-## Ejercicios:
+## Ejercicio:
 
 ```
 https://7pyngmccwa.execute-api.us-east-1.amazonaws.com/default/apitest?q=aceite&n=50
