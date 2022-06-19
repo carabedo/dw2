@@ -30,3 +30,4 @@ Por ultimo generar el codigo html de esta tabla y meterla en el body de una pagi
 ```
 document.body.innerHTML = stringdelhtml
 ```
+Repetir filtrando los articulos que sean de girasol.
