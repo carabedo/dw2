@@ -13,5 +13,5 @@
 ## Ejercicios:
 
 ```
-https://7pyngmccwa.execute-api.us-east-1.amazonaws.com/default/apitest?q=cocinero
+https://7pyngmccwa.execute-api.us-east-1.amazonaws.com/default/apitest?q=aceite&n=50
 ``` 
