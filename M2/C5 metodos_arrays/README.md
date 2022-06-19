@@ -19,7 +19,7 @@ https://7pyngmccwa.execute-api.us-east-1.amazonaws.com/default/apitest?q=aceite&
 Juguemos con este array, la idea es iterar por cada lugar de esta lista y sacar los nombres de los articulos en un segundo array: nombres.
 
 
-Con esos nombres vamos generar una <ul> con cada item en un `<li>`. 
+Con esos nombres vamos generar una `<ul>` con cada item en un `<li>`. 
  
 Armemos un tercer array: items, que agreguen el tag `<li>` nombre `</li>`
 
