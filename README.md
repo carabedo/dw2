@@ -5,8 +5,8 @@
 - Refuerzo HTML
 - Refuerzo CSS
 - Concepto de librería
-- Bootstrap y componenter
-- Bootstrap y responsive
+- Bootstrap y componentes
+- Bootstrap y responsive design
 - Sistema de grillas
 - Utilidades de Bootstrap
 
