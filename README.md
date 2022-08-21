@@ -1,19 +1,49 @@
 # Diseño Web 2
 
-## modulo 1
+## HTML - CSS - Bootstrap
 
-+ semana 1 (presentacion)
-+ semana 2 (repaso html)
-+ semana 3 (repaso css)
-+ semana 4 (bootstrap)
-+ semana 5 (grillas con bootstrap)
-+ semana 6 (presentacion proyectos)
+- Refuerzo HTML
+- Refuerzo CSS
+- Concepto de librería
+- Bootstrap y componenter
+- Bootstrap y responsive
+- Sistema de grillas
+- Utilidades de Bootstrap
 
-## modulo 2
+## Javascript I
 
-* [semana 1 (intro js)](https://github.com/carabedo/dw2/tree/main/M2##semana-1-intro-js)
-* [semana 2 (condicionales)](https://github.com/carabedo/dw2/blob/main/M2/readme.md#semana-2-condicionales) 
-* [semana 3 (condicionales 2)](https://github.com/carabedo/dw2/tree/main/M2#semana-3-condicionales-2)
-* [semana 4 (arrays)](https://github.com/carabedo/dw2/tree/main/M2#semana-4-arrays)
-* [semana 5 (for)](https://github.com/carabedo/dw2/tree/main/M2#semana-5-for)
-* [semana 6 (exposicion)]()
+- Lenguaje de programación
+- Etiqueta Script
+- Variables y constantes
+- Condicionales
+- If, else anidados
+- Operadores comparativos
+- Operadores Lógicos
+- Arreglos
+- Métodos de arreglos
+- Length
+- Objeto Math
+
+## Javascript II
+
+- Bucles
+- While
+- For
+- Funciones anónimas
+- Funciones nominales
+- Return
+- Objetos
+- Foreach/map
+
+## Javascript y el DOM
+
+- DOM ¿Qué es?
+- Manipulación del DOM 
+- QuerySelector
+- Classlist
+- Set/GetAttriubte
+- EventListeners
+- Eventos de click, mouse y key
+- Ajax y JSON
+- Introducción a APIs
+- Introducción respuestas asincrónicas
