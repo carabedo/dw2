@@ -37,3 +37,30 @@ i= ij+ 1
 }
 while( j < 5)
 ```
+## Operadores ++, --, +=, -=
+
+Sumo uno
+
+```js
+i=i+1
+i++
+```
+Resto uno
+
+```js
+i=i-1
+i--
+```
+Sumo N
+
+```js
+i=i+10
+i+=10
+```
+
+Resto N
+
+```js
+i=i-10
+i-=10
+```
