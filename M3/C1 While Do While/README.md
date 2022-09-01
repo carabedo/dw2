@@ -25,3 +25,15 @@ console.log('Hola!')
 i= i + 1
 }
 ```
+## Do while
+
+Primero hace y despues chequea la condicion. Es como el while.
+
+```js
+let j = 0
+do{
+console.log('Hola!')
+i= ij+ 1
+}
+while( j < 5)
+```
