@@ -11,8 +11,11 @@ for (inicio; condicion; final){
 
 Veamos un ejemplo, vamos a imprimir cada uno de los elementos del siguiente array de 4 maneras diferentes:
 
-`array = ['arbol','hoja','salto']`
+```js
+array = ['arbol','hoja','salto']
+```
 
+Usando la definicion mas basica del loop for:
 
 ```js
 for (let i = 0; i < array.length; ++i) {
