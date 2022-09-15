@@ -12,6 +12,13 @@ for (inicio; condicion; final){
 
 array = ['arbol','hoja','salto']
 
+
+```js
+for (let i = 0; i < array.length; ++i) {
+  console.log(array[i]);
+}
+```
+
 ## for ... of
 
 
