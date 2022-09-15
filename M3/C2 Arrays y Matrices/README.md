@@ -1,4 +1,38 @@
 
+# For
+
+
+
+```js
+for (inicio; condicion; final){
+  bloque de codigo
+}
+``` 
+
+
+array = ['arbol','hoja','salto']
+
+## for ... of
+
+
+```js
+for (elemento of array) {
+  console.log(elemento)
+}
+```
+
+## for ... in
+
+```js
+for (let i in array) {
+  console.log(array[i]);
+}
+```
+
+## .forEach()
+
+array.forEach((v, i) => console.log(v))
+  
 # Matrices 
 
 ```js
