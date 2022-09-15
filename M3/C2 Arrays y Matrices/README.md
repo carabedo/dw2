@@ -39,8 +39,10 @@ for (let i in array) {
 
 ## .forEach()
 
+```js
 array.forEach((v, i) => console.log(v))
-  
+```
+
 # Matrices 
 
 ```js
