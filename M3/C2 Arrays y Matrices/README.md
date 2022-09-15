@@ -9,8 +9,9 @@ for (inicio; condicion; final){
 }
 ``` 
 
+Veamos un ejemplo, vamos a imprimir cada uno de los elementos del siguiente array de 4 maneras diferentes:
 
-array = ['arbol','hoja','salto']
+`array = ['arbol','hoja','salto']`
 
 
 ```js
