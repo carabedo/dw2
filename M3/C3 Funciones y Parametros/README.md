@@ -36,16 +36,6 @@ console.log('Tenes: '+ edad + ' años.')
 }
 ```
 
-
-## Declaradas
-
-```javascript
-function calculoEdad(anioNacimiento) {
-let edad = 2022-anioNacimiento
-console.log('Tenes: '+ edad + ' años.')
-}
-```
-
 ### Multiples argumentos
 
 ```javascript
