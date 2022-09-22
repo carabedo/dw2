@@ -55,6 +55,44 @@ console.log('Hola ' + nombre + ' hice la cuenta y tenes: '+ edad + ' años.')
 }
 ```
 
+
+# Array con funciones:
+
+```js
+function suma (a,b){
+return a+b
+}
+
+function resta(a,b){
+return a-b
+}
+
+calculadora = [suma,resta]
+```
+
+Ahora puedo usar cualquiera de las dos funciones escribiendo:
+
+```js
+calculadora[0](8,3)
+```
+
+Cuanto da esto?....
+
+# Objeto/Diccionario con funciones
+
+```js
+calculadora2 = { sumar : suma , restar : resta}
+```
+
+Y Cuanto da esto?
+
+```js
+calculadora2.restar(8,3)
+```
+
+Acabamos de definir un metodo! Una funcion metida adentro de un objeto... Felicitaciones, ya sos todx un OOP.
+
+
 ## Anonimas/Arrow/Flecha
 
 
@@ -122,7 +160,21 @@ Otro metodo muy util de los arrays. Como su nombre lo indica permite filtrar ele
 
 Definamos una funcion que devuelva un `true` si la edad es mayor a 18, `false` si no.
 
+
+#### Repasito
+
+Como escribimos un if?
+
+```js
+
+if (condicion){
+codigo loco
+}
 ```
+
+Escribamos entonces nuestra funcion:
+
+```js
 function chequeoEdad(anio){
     if (2022 -  anio > 18){ return true}
     else {return false}
