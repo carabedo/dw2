@@ -50,7 +50,7 @@ console.log('Tenes: '+ edad + ' años.')
 
 
 ```javascript
-(anioNacimiento)==>{
+(anioNacimiento)=>{
 console.log('Tenes: '+ 2022-anioNacimiento + ' años.')
 }
 ```
