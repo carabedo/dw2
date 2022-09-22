@@ -51,7 +51,7 @@ console.log('Tenes: '+ edad + ' años.')
 ```javascript
 function calculoEdad2(nombre,anioNacimiento) {
 let edad = 2022-anioNacimiento
-console.log('Hola ' + nombre + ' hice la cuenta y  tenes: '+ edad + ' años.')
+console.log('Hola ' + nombre + ' hice la cuenta y tenes: '+ edad + ' años.')
 }
 ```
 
