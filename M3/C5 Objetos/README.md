@@ -92,4 +92,10 @@ fetch('https://dummyjson.com/products/')
 ## for in
 
 
+## DOM
+
+https://carabedo.github.io/test/lista_css
+
+Usemos el metodo `.getElementsByClassName()` para seleccionar el div que contiene la lista de las bebidas.
+
 
