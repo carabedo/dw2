@@ -1,4 +1,7 @@
 # Objetos
+Empecemos a jugar con estructuras de datos un poco mas complejas:
+
+https://dummyjson.com
 
 ```json
 [
@@ -73,3 +76,18 @@
   }
 ]
 ```
+
+## Fetch
+
+```js
+fetch('https://dummyjson.com/products/')
+.then(repuesta => respuesta.json())
+.then(json => productos = json)
+```
+
+## for of
+
+## for in
+
+
+
