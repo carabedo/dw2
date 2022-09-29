@@ -137,6 +137,6 @@ document.querySelector('#readme > article > div:nth-child(36) > pre')
 Una vez que ubicamos el elemento que queremos manipular, lo asignamos a una variable y usamos el metodo o atributo que nos interese.
 
 ```js
-cajita=document.querySelector('#readme > article > div:nth-child(35) > pre')
+cajita=document.querySelector('#readme > article > div:nth-child(36) > pre')
 cajita.innerHTML='HOLA!!! ESTOY HACKEANDO LA PAGINA!!!'
 ```
