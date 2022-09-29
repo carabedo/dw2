@@ -3,7 +3,7 @@
 ## Arrays
 
 ```js
-lista = [11,23,45]
+lista = [1,23,2]
 ```
 
 ## if
@@ -19,6 +19,12 @@ else {console.log('el array tiene mas de 4 elementos')
 
 ```js
 for (x in lista){
+console.log(x)
+}
+```
+
+```js
+for (x of lista){
 console.log(x)
 }
 ```
