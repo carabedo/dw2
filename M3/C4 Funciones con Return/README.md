@@ -123,6 +123,20 @@ Una cajonera (objeto) con valores y funciones para manipular nuestro documento H
 
 ![](https://www.w3schools.com/js/pic_htmltree.gif)
 
+Podemos seleccionar elementos HTML usando la clase:
+
 ```js
 document.getElementsByClassName
+```
+Podemos seleccionar elementos HTML usando la ruta de CSS:
+
+``js
+document.querySelector('#readme > article > div:nth-child(35) > pre')
+```
+
+Una vez que ubicamos el elemento que queremos manipular, lo asignamos a una variable y usamos el metodo o atributo que nos interese.
+
+``js
+cajita=document.querySelector('#readme > article > div:nth-child(35) > pre')
+cajita.innerHTML='HOLA!!! ESTOY HACKEANDO LA PAGINA!!!"
 ```
