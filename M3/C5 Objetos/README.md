@@ -87,9 +87,11 @@ fetch('https://dummyjson.com/products/')
 .then(json => productos = json)
 ```
 
-## for of
+# Ejericios:
 
-## for in
+## JSON
+
+Iterar el json e imprimir cada nombre de usuario y la ciudad en la que viven.
 
 
 ## DOM
