@@ -130,13 +130,13 @@ document.getElementsByClassName
 ```
 Podemos seleccionar elementos HTML usando la ruta de CSS:
 
-``js
+```js
 document.querySelector('#readme > article > div:nth-child(35) > pre')
 ```
 
 Una vez que ubicamos el elemento que queremos manipular, lo asignamos a una variable y usamos el metodo o atributo que nos interese.
 
-``js
+```js
 cajita=document.querySelector('#readme > article > div:nth-child(35) > pre')
 cajita.innerHTML='HOLA!!! ESTOY HACKEANDO LA PAGINA!!!"
 ```
