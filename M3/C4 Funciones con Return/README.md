@@ -93,8 +93,8 @@ Por ultimo veamos objetos!
 ![](https://http2.mlstatic.com/D_NQ_NP_881520-MLA43683157972_102020-O.webp)
 
 ```javascript
-let cajamisteriosa
-cajoneramisteriosa = { cajon1 : 23 , cajon2 : 'hola', cajon3 : false , cajon4 : esmayoracuatro} 
+let cajonera
+cajonera = { cajon1 : 23 , cajon2 : 'hola' , cajon3 : esmayoracuatro} 
 ```
 
 
