@@ -45,6 +45,38 @@ function esmayoracuatro(x){
 }
 ```
 
+### Scope (alcance)
+
+Una variable definida dentro de una funcion, solo existe dentro de la funcion.
+
+```js
+// aca no existe la variable color
+function unaFuncion() {
+  let color = "Rojo";
+  // aca existe la variable color
+  console.log(color)
+}
+// aca no existe la variable color
+```
+Una variable definida de manera global (no adentro de una funcion o un bloque)  existe dentro de las funciones.
+
+```js
+// aca no existe la variable color
+let color = "Rojo"
+// aca existe la variable color
+function unaFuncion() {
+  // aca existe la variable color
+  console.log(color)
+}
+// aca existe la variable color
+```
+### Anonimas (una manera rapida de escribir funciones)
+
+```js
+lista.forEach(x=>console.log(x))
+```
+
+
 ## Metodos
 
 ```js
