@@ -10,8 +10,10 @@ divImagen.innerHTML = '<img src="polar.jpg" alt="">'
 
 } else {
 
+
+console.log('esta lindo')
 divImagen=document.getElementById('imagen')
 divImagen.innerHTML = '<img src="calido.jpg" alt="">'
-console.log('esta lindo')
+
 
 }
