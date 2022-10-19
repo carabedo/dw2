@@ -25,10 +25,25 @@ productos=[
       "price": 437.87
     }
   ]
+
 console.log(productos.length)
+
+
 
 contenedor=document.getElementsByClassName('contenedor')[0]
 
-for (const item of productos) {
-    contenedor.innerHTML+='<article> <img src="'+item.src +'" width=200 height=200"><br>'+item.name +'</article>'
+
+function menora300(x)
+{
+  return x.price<300
 }
+
+prod2s=productos.filter( x => x.price <300 )
+
+for (const item of prod2s) {
+
+    contenedor.innerHTML+='<article> <img src="'+item.src +'" width=200 height=200"><br>'+item.name +'</article>'
+   
+}
+
+
