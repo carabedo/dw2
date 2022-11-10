@@ -15,6 +15,6 @@ Que es x?
 
 # Algunos atributos y metodos del objeto evento:
 
-- preventdefault
+- preventdefault()
 - target
 - keyCode (eventos de teclado)
