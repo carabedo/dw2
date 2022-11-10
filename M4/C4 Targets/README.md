@@ -1,9 +1,7 @@
 # Encuentro 4
 
-# Atributos del evento:
+# Objeto evento:
 
-- preventdefault
-- target
 
 Veamos que pasa si agregamos el siguiente `eventListener`:
 
@@ -14,3 +12,9 @@ Veamos que pasa si agregamos el siguiente `eventListener`:
 ```
 
 Que es x?
+
+# Algunos atributos y metodos del objeto evento:
+
+- preventdefault
+- target
+- keyCode (eventos de teclado)
